@@ -16,7 +16,3 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
-npx create-react-app client
-cd client
-npm install
-npm start
